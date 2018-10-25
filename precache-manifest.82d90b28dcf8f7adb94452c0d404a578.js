@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/ravenous/static/css/main.09065b73.chunk.css"
   },
   {
-    "revision": "14342d065c2bb3edd4e4494a95dcd19c",
+    "revision": "720d1adf1e2792a7fed98919b5b09311",
     "url": "/ravenous/index.html"
   }
 ];
