@@ -13,6 +13,6 @@ export default class BusinessList extends React.Component {
                     )
                 }
             </div>
-        );
+        )
     }
 }
